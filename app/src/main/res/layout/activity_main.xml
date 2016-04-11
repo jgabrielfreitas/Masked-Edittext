@@ -18,7 +18,7 @@
             tools:context="com.github.pinball83.app.MainActivity"
             android:orientation="vertical">
 
-        <com.github.pinball83.maskededittext.MaskedEditText
+        <com.github.pinball83.maskededittext.MaskedMaterialEditText
                 android:id="@+id/masked_edit_text"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

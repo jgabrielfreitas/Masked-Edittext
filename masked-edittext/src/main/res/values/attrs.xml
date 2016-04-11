@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <declare-styleable name="MaskedEditText">
+    <declare-styleable name="MaskedMaterialEditText">
         <attr name="mask" format="string"/>
         <attr name="notMaskedSymbol" format="string"/>
         <attr name="replacementChar" format="string"/>
